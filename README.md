@@ -1,5 +1,5 @@
 # SE Spaceship
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example event parameter](https://github.com/nagybence121/se-lab/actions/workflows/maven.yml/badge.svg?event=push)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
